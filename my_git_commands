@@ -1,0 +1,136 @@
+    1  
+    2  pwd
+    3  asdf
+    4  git
+    5  git config
+    6  git config user.name
+    7  git config user.email
+    8  git config --global core.editor
+    9  git config  core.editor
+   10  git config user.Name
+   11  git config user.fullname
+   12  git config user.
+   13  git config user
+   14  git config --list
+   15  d
+   16  git help config
+   17  git config -h
+   18  git config --get-all
+   19  git config --get-all *
+   20  whereami
+   21  whoami
+   22  ls
+   23  cd .gitconfig 
+   24  vi .gitconfig 
+   25  cd D:
+   26  pwd
+   27  ls
+   28  mkdir git
+   29  cd git/
+   30  ls
+   31  mkdir project_test1
+   32  cd project_test1/
+   33  ls
+   34  ls
+   35  pwd
+   36  git init
+   37  ls
+   38  cd .git/
+   39  ls
+   40  vim HEAD 
+   41  vi config 
+   42  pwd
+   43  ls
+   44  cd hooks/
+   45  ls
+   46  cd ..
+   47  ls
+   48  cd ..
+   49  ls
+   50  pwd
+   51  ;s
+   52  mkdir dir1_test
+   53  cd dir1_test/
+   54  ls
+   55  cd ..
+   56  cd ..
+   57  cd project_test1/
+   58  ;s
+   59  cd ..
+   60  mkdir project_test2
+   61  ls
+   62  cd project_test2/
+   63  ls
+   64  git init
+   65  cd ..
+   66  ls
+   67  ls
+   68  cd project_test1/
+   69  ls
+   70  ls
+   71  ls
+   72  cd dir1_test/
+   73  touch README
+   74  git add README 
+   75  ls
+   76  git commit -h
+   77  git status
+   78  git commit -m "first commit"
+   79  git status
+   80  cd ..
+   81  cd .git/
+   82  ls
+   83  grep http *
+   84  grep http * -r
+   85  git remote get-url origin
+   86  git remote get-url
+   87  git remote get-url --all
+   88  git remote -v
+   89  git config --get remote.origin.url
+   90  git remote show origin
+   91  git branch
+   92  git remote add remote_name https://remote.git
+   93  git log
+   94  git remote add project_test1 https://github.com/haykberd/project_test1.git
+   95  git log
+   96  git push
+   97  git remote add project_test1 https://github.com/haykberd/project_test1.git
+   98  git push
+   99  git push project_test1
+  100   git push --set-upstream project_test1 master
+  101   git push --set-upstream haykberd master
+  102   git push --set-upstream project_test1 master
+  103  git remote add origin https://github.com/haykberd/project_test1.git
+  104  git remote -v
+  105  git remote -h
+  106  git remote remove remote_name
+  107  git remote remove project_test1
+  108  git remote -v
+  109  git push -v
+  110  git push -h
+  111  git push origin master
+  112  git remote add origin https://github.com/haykberd/project_test1.git
+  113  cd ..
+  114  git remote add origin https://github.com/haykberd/project_test1.git
+  115  git push -u
+  116  git push --set-upstream origin master
+  117  git remote -v
+  118  git push --set-upstream origin master
+  119  git status
+  120  git push --set-upstream origin master
+  121  h
+  122  history
+  123  cd ..
+  124  ls
+  125  touch my_git_commands
+  126  history >> my_git_commands 
+  127  cat my_git_commands 
+  128  echo "ytest" >> my_git_commands 
+  129  vi my_git_commands 
+  130  echo "ytest" > my_git_commands 
+  131  vi my_git_commands 
+  132  mv my_git_commands project_test1/
+  133  ls
+  134  cd project_test1/
+  135  ls
+  136  history > my_git_commands 
